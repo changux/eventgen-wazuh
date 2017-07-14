@@ -1,0 +1,1 @@
+{"timestamp":"2017-07-14T16:06:55+0000","rule":{"level":3,"description":"Ossec server started.","id":"502","firedtimes":1,"groups":["ossec"],"pci_dss":["10.6.1"]},"agent":{"id":"000","name":"wazuh"},"manager":{"name":"wazuh"},"full_log":"ossec: Ossec started.","decoder":{"name":"ossec"},"hostname":"wazuh","location":"ossec-monitord"}
